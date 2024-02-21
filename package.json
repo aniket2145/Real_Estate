@@ -7,7 +7,7 @@
   "scripts": {
     "dev": "nodemon api/index.js",
     "start": "node index.js",
-    "build":"npm install && install --prefix Real_Estate && npm run build --prefix Real_Estate"
+    "build":"npm install && install --prefix Front-End && npm run build --prefix Front-End"
   },
   "keywords": [],
   "author": "",
